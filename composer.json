@@ -2,7 +2,7 @@
     "name": "xin_test/demo",
     "description": "test",
     "type": "pjoject",
-
+    "licence": "MIT",
     "authors": [
         {
             "name": "ajinjie",
