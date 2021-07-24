@@ -1,0 +1,11 @@
+{
+    "name": "xin/demo",
+    "description": "test",
+    "authors": [
+        {
+            "name": "ajinjie",
+            "email": "ajinjie@126.com"
+        }
+    ],
+    "require": {}
+}
