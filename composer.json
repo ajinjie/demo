@@ -1,11 +1,14 @@
 {
     "name": "xin_test/demo",
     "description": "test",
+    "type": "pjoject",
+    "license": "test",
     "authors": [
         {
             "name": "ajinjie",
             "email": "ajinjie@126.com"
         }
     ],
+    "minimum-stability": "dev",
     "require": {}
 }
