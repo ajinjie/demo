@@ -9,5 +9,7 @@
             "email": "ajinjie@126.com"
         }
     ],
-    "require": {}
+        "require": {
+            "php": "^7.2", //±ØÐëµÄ°æ±¾
+        },
 }
